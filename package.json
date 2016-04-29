@@ -1,0 +1,21 @@
+{
+  "name": "EmailValidator",
+  "version": "0.0.1",
+  "description": "simple email validator build on node.js and express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "express": "~4.13.4",
+    "nodemailer": "~2.3.2",
+    "email-check": "~1.1.0",
+    "promise": "~7.1.1",
+    "validator": "~5.2.0",
+    "email-existence": "~0.1.5",
+    "csv": "~0.4.6",
+    "kickbox": "~2.0.0"
+  }
+}
